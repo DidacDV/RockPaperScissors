@@ -67,3 +67,5 @@ function play() {
     if (winner = "computer") console.log("Computer won :(");
     else console.log("You won!");
 }
+
+play();
